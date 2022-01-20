@@ -5,7 +5,7 @@ Demo Grading Contract
 
 # Contract Grades – “A” Contract
 
-I, John Tukey, agree to :
+I, Mason Garrison, agree to :
 
 1.  Earn “Satisfactory” on 12 self-paced lab assignments on the schedule
     specified below.
